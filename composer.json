@@ -1,0 +1,18 @@
+{
+    "name": "stellanamonje/string-helpers",
+    "description": "A PHP package that converts USD to Zambian Kwacha and vice versa",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Stellanamonje\\StringHelpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stella Namonje",
+            "email": "namonjestella@gmail.com"
+        }
+    ],
+    "require": {}
+}
